@@ -50,7 +50,7 @@
 
       // Here, we're passing in some initial data
       data: { name1: 'Hello',
-            name2: 'world',
+            name2: 'jim',
             color: 'purple',
             size: 4,
             font: 'Georgia'}
